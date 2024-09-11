@@ -223,6 +223,22 @@ h2{
    @media(min-width:200px),(max-width:1280px){
 
 
+
+    
+    
+        .topo-cafeteria{
+
+        max-width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: darkgoldenrod;
+        padding: 5px;
+    
+    }
+
+
+
         .conteudo-topo a{
 
 
@@ -420,23 +436,7 @@ h2{
 
      }
 
-     @media(max-width:1280px){
-
-
-        .topo-cafeteria{
-
-            max-width: 100%;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            background-color: darkgoldenrod;
-            padding: 5px;
-        
-        }
-
-
-
-          }
+     
 
      
 
