@@ -261,6 +261,7 @@ h2{
         .informativo-cafe p{
 
             font-size: 20px;
+            text-align: left;
             
 
 
@@ -269,6 +270,7 @@ h2{
         .container-texto p{
 
             font-size: 20px;
+            text-align: left;
         
         }
 
@@ -321,6 +323,7 @@ h2{
 
 
             text-align: center;
+            text-align: left;
             font-size: 15px;
             padding-top: 2px;
             line-height: 17px;
@@ -334,6 +337,7 @@ h2{
 
             max-width: 1024px;
             text-align: center;
+            text-align: left;
             font-size: 15px;
             padding-top:0px;
             margin: 50px 50px;
