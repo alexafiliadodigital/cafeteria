@@ -220,15 +220,16 @@ h2{
 
    
    
-   @media(min-width:200px),(max-width:725px){
+   @media(min-width:200px),(max-width:1280px){
 
 
         .conteudo-topo a{
 
 
-              font-size: 10px;  
+              font-size: 20px;  
               font-weight: bold;
               margin-right: 10px;
+              color: blue;
 
         }
 
@@ -282,6 +283,18 @@ h2{
 
         
     }
+    .topo-cafeteria{
+
+        max-width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: darkgoldenrod;
+        padding: 5px;
+    
+    }
+
+   }
 
     @media(max-width:499px){
 
@@ -355,7 +368,7 @@ h2{
         }
 
 
-        }
+        
      }
 
      
@@ -368,8 +381,20 @@ h2{
          h2{
 
 
-            color: black;
+            color: red;
+
          }
+
+         .conteudo-topo a{
+
+            color: green;
+        
+        }
+
+
+
+
+         
     }
 
     
@@ -408,12 +433,10 @@ h2{
             padding: 5px;
         
         }
-        
 
 
 
-
-     }
+          }
 
      
 
